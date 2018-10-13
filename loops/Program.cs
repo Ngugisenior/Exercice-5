@@ -18,7 +18,7 @@ namespace loops {
                 num = rand.Next (NumMin, NumMax);
                 Console.Write ("The integer selected is " + num);
 
-                //Factorial calculator
+                //Factorial calculator upto the nth number
                 for (int i = 1; i <= num; ++i) {
 
                     if (i == num) {

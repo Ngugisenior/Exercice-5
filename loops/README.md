@@ -1,5 +1,5 @@
 #Exercise-5
-Create a program
+Create a program:
          
          a). To compute the factorial of a number (n!)! 
              ----> a factorial of a number is the product of all numbers between the given number and 1.
